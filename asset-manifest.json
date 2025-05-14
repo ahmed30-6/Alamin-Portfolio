@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Alamin-Portfolio/static/css/main.d905bca1.css",
+    "main.js": "/Alamin-Portfolio/static/js/main.057ea429.js",
+    "static/media/home-bg.png": "/Alamin-Portfolio/static/media/home-bg.62a287a4c574f4cefae5.png",
+    "static/media/testimonials-bg.png": "/Alamin-Portfolio/static/media/testimonials-bg.ec360b89e4cb398056f7.png",
+    "static/media/some-facts-bg.png": "/Alamin-Portfolio/static/media/some-facts-bg.1be1e9076a91e1574153.png",
+    "static/media/slick.svg": "/Alamin-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Alamin-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Alamin-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Alamin-Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Alamin-Portfolio/index.html",
+    "main.d905bca1.css.map": "/Alamin-Portfolio/static/css/main.d905bca1.css.map",
+    "main.057ea429.js.map": "/Alamin-Portfolio/static/js/main.057ea429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d905bca1.css",
+    "static/js/main.057ea429.js"
+  ]
+}
